@@ -1,0 +1,1 @@
+apktool.bat d x-plore_ori.apk -o xploreDe
